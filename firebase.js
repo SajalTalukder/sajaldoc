@@ -1,11 +1,11 @@
 import firebase from "firebase";
 const firebaseConfig = {
-  apiKey: "AIzaSyBbL5OqC9f_F0kwVCu48r_XJEkn_oZFnOM",
-  authDomain: "next--docs.firebaseapp.com",
-  projectId: "next--docs",
-  storageBucket: "next--docs.appspot.com",
-  messagingSenderId: "1065661303775",
-  appId: "1:1065661303775:web:4b692037bf02b6d356126a",
+  apiKey: "AIzaSyA_RH6XAEhcuZkb6vOae5G50XJC02uROFs",
+  authDomain: "sajaldocs-57135.firebaseapp.com",
+  projectId: "sajaldocs-57135",
+  storageBucket: "sajaldocs-57135.appspot.com",
+  messagingSenderId: "1084847361488",
+  appId: "1:1084847361488:web:1fdb4e2b416956c3527dd5",
 };
 
 const app = !firebase.apps.length
